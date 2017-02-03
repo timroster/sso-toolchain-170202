@@ -78,7 +78,7 @@ var authorization_url = ssoConfig.credentials.authorizationEndpointUrl;
 var token_url = ssoConfig.credentials.tokenEndpointUrl;
 var issuer_id = ssoConfig.credentials.issuerIdentifier;
 // you MUST change the host route to match your application name
-var callback_url = 'https://scaleSSO-TOR0117.mybluemix.net/auth/sso/callback';
+var callback_url = 'https://scaleSSO-adtry0916.mybluemix.net/auth/sso/callback';
 
 var Strategy = new OpenIDConnectStrategy({
                  authorizationURL : authorization_url,
