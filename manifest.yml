@@ -1,7 +1,7 @@
 applications:
 - disk_quota: 1024M
-  host: scalesso-tor0117
-  name: scaleSSO-TOR0117
+  host: scalesso-adtry0916
+  name: scaleSSO-adtry0916
   path: .
   domain: mybluemix.net
   instances: 1
